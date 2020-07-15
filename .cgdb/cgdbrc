@@ -1,0 +1,9 @@
+:set ignorecase
+:highlight SelectedLineNr cterm=reverse ctermfg=Yellow ctermbg=Black
+:map r :run
+:map c :continue
+:map f :finish
+:map n :next
+:map s :step
+:map u :up<cr>
+:map d :down<cr>

@@ -1,0 +1,10 @@
+[user]
+	name = Joel Hockey
+	email = joel.hockey@gmail.com
+[diff]
+	tool = meld
+[color]
+	ui = auto
+[difftool]
+	prompt = false
+
